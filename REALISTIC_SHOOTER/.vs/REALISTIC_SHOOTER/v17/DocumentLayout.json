@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\Assets\\Scripts\\Bala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Bala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CCE452-16F1-2103-DB05-1D43917F5883}|Assembly-CSharp.csproj|C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\assets\\scripts\\weaponraycast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CCE452-16F1-2103-DB05-1D43917F5883}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weaponraycast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CCE452-16F1-2103-DB05-1D43917F5883}|Assembly-CSharp.csproj|C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\assets\\scripts\\bullettrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CCE452-16F1-2103-DB05-1D43917F5883}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullettrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CCE452-16F1-2103-DB05-1D43917F5883}|Assembly-CSharp.csproj|C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\assets\\scripts\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CCE452-16F1-2103-DB05-1D43917F5883}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CCE452-16F1-2103-DB05-1D43917F5883}|Assembly-CSharp.csproj|C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\assets\\scripts\\enemyhealthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CCE452-16F1-2103-DB05-1D43917F5883}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyhealthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CCE452-16F1-2103-DB05-1D43917F5883}|Assembly-CSharp.csproj|C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CCE452-16F1-2103-DB05-1D43917F5883}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CCE452-16F1-2103-DB05-1D43917F5883}|Assembly-CSharp.csproj|C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\assets\\scripts\\enemyhitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CCE452-16F1-2103-DB05-1D43917F5883}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyhitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CCE452-16F1-2103-DB05-1D43917F5883}|Assembly-CSharp.csproj|C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\assets\\scripts\\enemyai_navmesh1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CCE452-16F1-2103-DB05-1D43917F5883}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai_navmesh1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bala.cs",
+              "DocumentMoniker": "C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\Assets\\Scripts\\Bala.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bala.cs",
+              "ToolTip": "C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\Assets\\Scripts\\Bala.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bala.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "0001-01-01T06:00:00Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyHealthManager.cs",
+              "DocumentMoniker": "C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\Assets\\Scripts\\EnemyHealthManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyHealthManager.cs",
+              "ToolTip": "C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\Assets\\Scripts\\EnemyHealthManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyHealthManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T23:20:21.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoorController.cs",
+              "DocumentMoniker": "C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\Assets\\Scripts\\DoorController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorController.cs",
+              "ToolTip": "C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\Assets\\Scripts\\DoorController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T04:29:08.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BulletTrail.cs",
+              "DocumentMoniker": "C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\Assets\\Scripts\\BulletTrail.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletTrail.cs",
+              "ToolTip": "C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\Assets\\Scripts\\BulletTrail.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletTrail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T03:51:03.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeaponRaycast.cs",
+              "DocumentMoniker": "C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\Assets\\Scripts\\WeaponRaycast.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponRaycast.cs",
+              "ToolTip": "C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\Assets\\Scripts\\WeaponRaycast.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponRaycast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T03:50:50.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyHitbox.cs",
+              "DocumentMoniker": "C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\Assets\\Scripts\\EnemyHitbox.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyHitbox.cs",
+              "ToolTip": "C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\Assets\\Scripts\\EnemyHitbox.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyHitbox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T03:50:23.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyAI_Navmesh1.cs",
+              "DocumentMoniker": "C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\Assets\\Scripts\\EnemyAI_Navmesh1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI_Navmesh1.cs",
+              "ToolTip": "C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\Assets\\Scripts\\EnemyAI_Navmesh1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAI_Navmesh1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T23:21:31.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "C:\\rEALISTIC SHOOTET\\REALISTIC_SHOOTER\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T23:21:03.654Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

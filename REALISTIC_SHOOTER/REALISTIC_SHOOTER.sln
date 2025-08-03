@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.ProBuilder.Examples.Editor", "Unity.ProBuilder.Examples.Editor.csproj", "{CD46C513-9229-F76F-556F-8D83B2299E22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.ProBuilder.Examples", "Unity.ProBuilder.Examples.csproj", "{FE71B98C-0724-E365-8E25-F7DCF2197C97}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{892EC032-739F-3514-74CB-EB4CEE77DAD9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{B3CCE452-16F1-2103-DB05-1D43917F5883}"
@@ -11,6 +15,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD46C513-9229-F76F-556F-8D83B2299E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD46C513-9229-F76F-556F-8D83B2299E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD46C513-9229-F76F-556F-8D83B2299E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD46C513-9229-F76F-556F-8D83B2299E22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE71B98C-0724-E365-8E25-F7DCF2197C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE71B98C-0724-E365-8E25-F7DCF2197C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE71B98C-0724-E365-8E25-F7DCF2197C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE71B98C-0724-E365-8E25-F7DCF2197C97}.Release|Any CPU.Build.0 = Release|Any CPU
 		{892EC032-739F-3514-74CB-EB4CEE77DAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{892EC032-739F-3514-74CB-EB4CEE77DAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{892EC032-739F-3514-74CB-EB4CEE77DAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
